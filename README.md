@@ -2,6 +2,15 @@
 
 输入一个关键词，生成一张 **9:16 霓虹青色天空 + 极端鱼眼 + 巨型酸性黄字体 + 普通人英雄时刻 + 90 年代末实验编辑印刷感** 的写实海报。
 
+
+## 作品展示 · Gallery
+
+| | | |
+|---|---|---|
+| <img src="assets/01.png" width="260"> | <img src="assets/02.png" width="260"> | <img src="assets/03.png" width="260"> |
+| <img src="assets/04.png" width="260"> | <img src="assets/05.png" width="260"> | <img src="assets/06.png" width="260"> |
+| <img src="assets/07.png" width="260"> |  |  |
+
 ## 它能做什么
 
 - 理解关键词（中文、英文、成语、短句都行），自动把它变成一位真实普通人：职业、年龄气质、服装、巅峰动作、前景道具
